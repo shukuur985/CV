@@ -1,0 +1,29 @@
+
+
+h1{
+  color: red;
+  font-size: 200px;
+}
+
+/*
+img{
+backgroun-color: red;
+}
+
+/*
+
+/*************class selectors******8****/
+
+.bacon{
+backgroun-color: red;
+}
+
+.broccoli{
+backgroun-color: red;
+}
+
+/**********************ID selectors********/
+
+#heading{
+  color: blue;
+}
